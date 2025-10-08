@@ -27,8 +27,8 @@ Q：点击按钮后无响应？
 A：先检查输入是否符合格式要求（参考「输入要求」章节），若输入合法仍无响应，可关闭程序重新启动。
 
 ### **五、运行环境**
-操作系统：Windows/macOS/Linux（支持 Java 运行环境的系统）。
-依赖：Java Runtime Environment（JRE）1.8 及以上版本。
-启动方式：通过java SDES命令运行编译后的 class 文件，或通过 IDE（如 IntelliJ IDEA、Eclipse）直接运行源码。
+- 操作系统：Windows/macOS/Linux（支持 Java 运行环境的系统）。
+- 依赖：Java Runtime Environment（JRE）1.8 及以上版本。
+- 启动方式：通过java SDES命令运行编译后的 class 文件，或通过 IDE（如 IntelliJ IDEA、Eclipse）直接运行源码。
 
 ## 2.开发手册
